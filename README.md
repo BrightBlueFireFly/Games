@@ -1,3 +1,3 @@
 # Games
 
-Character design, environments, etc. 
+Character design ideas, environments, etc. 
